@@ -1,0 +1,10 @@
+covdefaults
+coverage
+jupyter
+jupyter_contrib_nbextensions
+pre-commit
+pytest
+black
+flake8
+isort
+pydocstyle
